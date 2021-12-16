@@ -11,11 +11,7 @@ Make sure the 'train' button won't work after pressing 'test' button, at least o
 
 # Support
 
-* Windows (32 bit)
 * Windows (64 bit)
-* MacOS (32 bit)
-* Linux (32 bit)
+* MacOS (64 bit)
 * Linux (64 bit)
-* Raspberry Pi 
-
-For Raspberry Pi, install openblas manually from install apt-get command.
+* Raspberry Pi (armhf)
